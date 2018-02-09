@@ -1,1 +1,1 @@
-# learning-ec6
+# learning-es6
